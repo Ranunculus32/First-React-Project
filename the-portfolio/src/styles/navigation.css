@@ -1,0 +1,13 @@
+.custom-styled-wrapper {
+  height: 20vh;
+  margin-bottom: 40px;
+}
+.me-auto {
+    display: flex;
+    justify-content: flex-end!important;
+    padding-inline-start: 0;
+}
+.brand-name {
+    width: 60%;
+    margin-right: auto;
+}
