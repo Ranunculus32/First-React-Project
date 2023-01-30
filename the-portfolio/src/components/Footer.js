@@ -1,5 +1,5 @@
 import Container from "react-bootstrap/Container";
-
+import '../styles/footer.css';
 const Footer = () => {
   return (
     <Container>
@@ -22,6 +22,9 @@ const Footer = () => {
             Climbing <span>🧗‍♂️</span>
           </li>
         </ul>
+        <br />
+        <br />
+        <p>Copyright &copy; 2023</p>
       </footer>
     </Container>
   );

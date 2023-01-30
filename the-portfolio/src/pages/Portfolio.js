@@ -11,13 +11,13 @@ class Portfolio extends Component {
           title="Project 1"
           description="A brief description of project 1"
           screenshot="project1-screenshot.png"
-          demoLink="https://project1.com"
+          demoLink="# "
         />
         <Project2
           title="Project 2"
           description="A brief description of project 2"
           screenshot="project2-screenshot.png"
-          demoLink="https://project2.com"
+          demoLink=" # "
         />
       </div>
     );
